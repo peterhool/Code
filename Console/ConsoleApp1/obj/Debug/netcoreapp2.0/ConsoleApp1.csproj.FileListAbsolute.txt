@@ -1,0 +1,4 @@
+F:\个人代码\c#\控制台代码\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.AssemblyReference.cache
+F:\个人代码\c#\控制台代码\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+F:\个人代码\c#\控制台代码\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+F:\个人代码\c#\控制台代码\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
